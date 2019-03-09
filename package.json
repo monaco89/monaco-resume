@@ -3,13 +3,12 @@
   "version": "1.0.1",
   "description": "Nick Monaco's Resume",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
   "keywords": [
     "nick",
     "monaco",
-    "resume"
+    "resume",
+    "node.js",
+    "cli"
   ],
   "author": "Nick Monaco",
   "license": "MIT",
