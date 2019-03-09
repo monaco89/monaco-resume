@@ -1,0 +1,23 @@
+{
+  "name": "monaco-resume",
+  "version": "1.0.0",
+  "description": "Nick Monaco's Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nick",
+    "monaco",
+    "resume"
+  ],
+  "author": "Nick Monaco",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  },
+  "bin": {
+    "monaco-resume": "./index.js"
+  }
+}
